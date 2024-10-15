@@ -1,0 +1,7 @@
+.nav-link {
+    color: white; /* Ensure the links are white */
+}
+
+.nav-link:hover {
+    color: #f57c00; /* Change hover color as desired */
+}

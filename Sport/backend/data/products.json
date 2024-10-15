@@ -1,0 +1,102 @@
+[{
+    "name": "Paper Plate Bowl Weaving",
+    "price": 1122,
+    "description": "Photo Credit: happyhooligans.caWho can't use more storage? These cute little bowls out of paper plates are so fun . . . easy . . . and colorful!",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      },
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Kapoor Craftsh",
+    "price": 299,
+    "description": "4 Pcs Handmade Colorful Wall Decor and Door Hangings for Home Decoration | Festive Decoration | Balcony, Room, Temple Decoration | Pooja Room Decoration | Decorative Hanging Items",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "colorful water junk  with unqiune design ",
+    "price": 1889.50,
+    "description": "A Krazy Mug Hand Painted Colourful Décorative Traditional Village Theme Design Desi Tea Chai Aluminium Kettle (1.25 L)",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "small penqueen design for showcase in small things with colourful  design",
+    "price": 250.45,
+    "description": "Divyakosh Metal Peacock with Stones Handcrafted Tea Light Candle Holder for Diwali Festival, Home Decor, Table Decoration, Gift (Pack of 2)",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "circle desgin for land area showcase things",
+    "price": 767.32,
+    "description": "ILU Metal Dream Catcher Bless This Home, Wall Hangings, Nursery, Crafts, Home Décor, Office, Handmade For Bedroom, balcony, Garden, Party, Café, Decoration, Wedding, Decorative, Pastel Multi Feathers",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 9
+  },
+  {
+    "name": "pillow decortion with colourfull white design",
+    "price": 1634.46,
+    "description": "Kaahira Handmade Cotton Macrame Cushion Pillow Cover Boho Home Decor Abstract Pattern 16 x 16 Inch in Off White Color - 1 Pcs (16 x 16)",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "HANDMADE THINGS",
+    "seller": "Amazon",
+    "stock": 4
+  },
+  {
+    "name": "trees handmade things  with colorful design",
+
+    "price": 1000.12,
+    "description": "10Club Pure Brass Kalpavriksha Tree Showpiece (6.6 inches, 500 gram) Tree of Life - Home Decor - Gift for Good Luck Vastu and Fengshui - Best in Living Room Table Decoration with Antique Polish",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Ebay",
+    "stock": 6
+  }]

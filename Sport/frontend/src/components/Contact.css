@@ -1,0 +1,17 @@
+.contact-container {
+    padding: 20px;
+    background-color: #f7f3f0;
+    color: #333;
+}
+.contact-container h1 {
+    text-align: center;
+}
+.contact-container form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.contact-container input, .contact-container textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
